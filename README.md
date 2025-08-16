@@ -1,5 +1,5 @@
 # Quantum-Computing-Projects
-Practical quantum computing
+  This repository is a collection of various projects I have explored in the path of developing related projects and research works.
 
 # How to use
 1. Open **Google Colab**, create a new notebook in drive
